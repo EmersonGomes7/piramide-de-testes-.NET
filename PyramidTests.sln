@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pyramid.Core", "Pyramid.Core\Pyramid.Core.csproj", "{F47A31D9-7C67-B2AA-A1CF-86A81D2F6615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pyramid.Tests", "Pyramid.Tests\Pyramid.Tests.csproj", "{F9167EBF-3AED-1DCA-C6F7-D6393D1F36F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F47A31D9-7C67-B2AA-A1CF-86A81D2F6615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47A31D9-7C67-B2AA-A1CF-86A81D2F6615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47A31D9-7C67-B2AA-A1CF-86A81D2F6615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47A31D9-7C67-B2AA-A1CF-86A81D2F6615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9167EBF-3AED-1DCA-C6F7-D6393D1F36F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9167EBF-3AED-1DCA-C6F7-D6393D1F36F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9167EBF-3AED-1DCA-C6F7-D6393D1F36F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9167EBF-3AED-1DCA-C6F7-D6393D1F36F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {502DFA59-2528-45B7-808D-605836EE89A0}
+	EndGlobalSection
+EndGlobal
