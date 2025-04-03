@@ -1739,6 +1739,16 @@
             "related": ".xml"
           }
         }
+      },
+      "Pyramid.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Pyramid.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pyramid.Core.dll": {}
+        }
       }
     }
   },
@@ -5545,12 +5555,18 @@
         "xunit.skippablefact.1.3.12.nupkg.sha512",
         "xunit.skippablefact.nuspec"
       ]
+    },
+    "Pyramid.Core/1.0.0": {
+      "type": "project",
+      "path": "../Pyramid.Core/Pyramid.Core.csproj",
+      "msbuildProject": "../Pyramid.Core/Pyramid.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.NET.Test.Sdk >= 17.12.0",
       "Moq >= 4.20.72",
+      "Pyramid.Core >= 1.0.0",
       "SpecFlow.Tools.MsBuild.Generation >= 3.9.74",
       "SpecFlow.Xunit >= 3.9.74",
       "coverlet.collector >= 6.0.4",
@@ -5582,7 +5598,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jamil\\PyramidTests\\Pyramid.Core\\Pyramid.Core.csproj": {
+              "projectPath": "C:\\Users\\jamil\\PyramidTests\\Pyramid.Core\\Pyramid.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
