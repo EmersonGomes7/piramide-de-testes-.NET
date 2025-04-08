@@ -3,7 +3,7 @@
 1- Propósito do Projeto
 
 Este projeto simula a criação e validação de orçamentos para clientes,
-aplicando os princípios da pirâmide de testes com .NET. por meio de testes automatizados..
+aplicando os princípios da pirâmide de testes com .NET. por meio de testes automatizados.
 
 ------------------------------------------------------------
 
@@ -32,7 +32,7 @@ O projeto utiliza Coverlet para medir a cobertura de código e atingiu 96% de co
 
 ----------------------------------------------------------
 
- Como Executar o Projeto Localmente
+ Como Executar o Projeto Localmente:
 
 Pré-requisitos
 - .NET 8 ou mais instalado
@@ -40,29 +40,20 @@ Pré-requisitos
 
 Clonar o Repositório
 
-Restaurar e Compilar
+Restaurar e Compilar:
 
 dotnet restore
 dotnet build
 
 para rodar os 
-Testes Unitários e de Integração:
+Testes Unitários, Integração, sistema e aceitação:
 
-dotnet test
+dotnet test Pyramid.Tests/Pyramid.Tests.csproj
 
-Testes de Aceitação (SpecFlow)
+----------------------------------------------------------
 
-dotnet test --filter Category=AcceptanceTests
-
-Gerar Relatório de Cobertura de Código
-
-dotnet test Pyramid.Tests ^
-  /p:CollectCoverage=true ^
-  /p:CoverletOutput=coverage-results/ ^
-  /p:CoverletOutputFormat=cobertura ^
-  --collect:"XPlat Code Coverage"
+jpara gerar o relatório de cobertura de código e visualizar no navegador: 
   
-para visualizar em HTML :
 Instale o ReportGenerator 
 
 dotnet tool install --global dotnet-reportgenerator-globaltool
@@ -70,11 +61,15 @@ dotnet tool install --global dotnet-reportgenerator-globaltool
 Gerar o relatório:
 
 reportgenerator -reports:"Pyramid.Tests\TestResults\*\coverage.cobertura.xml" -targetdir:coverage-report -reporttypes:Html
-Abra no navegador:
-coverage-report\index.html
 
-Tecnologias Utilizadas
-.NET 8
+Abra no navegador:
+
+start coverage-report/index.html
+
+-----------------------------------------------------------
+
+Tecnologias Utilizadas:
+.NET 9
 xUnit para testes unitários
 SpecFlow para testes de aceitação
 Coverlet para análise de cobertura
