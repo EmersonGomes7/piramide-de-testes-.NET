@@ -2,9 +2,6 @@ C:\Users\jamil\PyramidTests\Pyramid.Tests\bin\Debug\net9.0\.msCoverageSourceRoot
 C:\Users\jamil\PyramidTests\Pyramid.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_Pyramid.Tests
 C:\Users\jamil\PyramidTests\Pyramid.Tests\bin\Debug\net9.0\testhost.dll
 C:\Users\jamil\PyramidTests\Pyramid.Tests\bin\Debug\net9.0\TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll
-C:\Users\jamil\PyramidTests\Pyramid.Tests\bin\Debug\net9.0\Pyramid.Core.deps.json
-C:\Users\jamil\PyramidTests\Pyramid.Tests\bin\Debug\net9.0\Pyramid.Core.runtimeconfig.json
-C:\Users\jamil\PyramidTests\Pyramid.Tests\bin\Debug\net9.0\Pyramid.Core.exe
 C:\Users\jamil\PyramidTests\Pyramid.Tests\bin\Debug\net9.0\testhost.exe
 C:\Users\jamil\PyramidTests\Pyramid.Tests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
 C:\Users\jamil\PyramidTests\Pyramid.Tests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll

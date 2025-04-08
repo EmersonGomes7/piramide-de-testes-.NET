@@ -1,0 +1,16 @@
+C:\Users\jamil\PyramidTests\Pyramid.Core\bin\Debug\net8.0\TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll
+C:\Users\jamil\PyramidTests\Pyramid.Core\bin\Debug\net8.0\Pyramid.Core.deps.json
+C:\Users\jamil\PyramidTests\Pyramid.Core\bin\Debug\net8.0\Pyramid.Core.runtimeconfig.json
+C:\Users\jamil\PyramidTests\Pyramid.Core\bin\Debug\net8.0\Pyramid.Core.dll
+C:\Users\jamil\PyramidTests\Pyramid.Core\bin\Debug\net8.0\Pyramid.Core.pdb
+C:\Users\jamil\PyramidTests\Pyramid.Core\obj\Debug\net8.0\Pyramid.Core.csproj.AssemblyReference.cache
+C:\Users\jamil\PyramidTests\Pyramid.Core\obj\Debug\net8.0\Pyramid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamil\PyramidTests\Pyramid.Core\obj\Debug\net8.0\Pyramid.Core.AssemblyInfoInputs.cache
+C:\Users\jamil\PyramidTests\Pyramid.Core\obj\Debug\net8.0\Pyramid.Core.AssemblyInfo.cs
+C:\Users\jamil\PyramidTests\Pyramid.Core\obj\Debug\net8.0\Pyramid.Core.csproj.CoreCompileInputs.cache
+C:\Users\jamil\PyramidTests\Pyramid.Core\obj\Debug\net8.0\Pyramid.Core.sourcelink.json
+C:\Users\jamil\PyramidTests\Pyramid.Core\obj\Debug\net8.0\Pyramid.Core.dll
+C:\Users\jamil\PyramidTests\Pyramid.Core\obj\Debug\net8.0\refint\Pyramid.Core.dll
+C:\Users\jamil\PyramidTests\Pyramid.Core\obj\Debug\net8.0\Pyramid.Core.pdb
+C:\Users\jamil\PyramidTests\Pyramid.Core\obj\Debug\net8.0\Pyramid.Core.genruntimeconfig.cache
+C:\Users\jamil\PyramidTests\Pyramid.Core\obj\Debug\net8.0\ref\Pyramid.Core.dll

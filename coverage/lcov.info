@@ -1,0 +1,88 @@
+SF:C:\Users\jamil\PyramidTests\Pyramid.Core\Cliente.cs
+FN:2,System.String Pyramid.Core.Cliente::get_Nome()
+FNDA:0,System.String Pyramid.Core.Cliente::get_Nome()
+DA:3,0
+FN:4,System.Collections.Generic.List`1<Pyramid.Core.Orcamento> Pyramid.Core.Cliente::get_Orcamentos()
+FNDA:0,System.Collections.Generic.List`1<Pyramid.Core.Orcamento> Pyramid.Core.Cliente::get_Orcamentos()
+DA:5,0
+LF:2
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:C:\Users\jamil\PyramidTests\Pyramid.Core\Orcamento.cs
+FN:4,System.Int32 Pyramid.Core.Orcamento::get_Id()
+FNDA:0,System.Int32 Pyramid.Core.Orcamento::get_Id()
+DA:5,0
+FN:5,System.Decimal Pyramid.Core.Orcamento::get_valorTotal()
+FNDA:0,System.Decimal Pyramid.Core.Orcamento::get_valorTotal()
+DA:6,0
+FN:6,System.Collections.Generic.Dictionary`2<System.String,System.Decimal> Pyramid.Core.Orcamento::get_Itens()
+FNDA:0,System.Collections.Generic.Dictionary`2<System.String,System.Decimal> Pyramid.Core.Orcamento::get_Itens()
+DA:7,0
+FN:9,System.Void Pyramid.Core.Orcamento::AdicionarItem(System.String,System.Decimal)
+FNDA:0,System.Void Pyramid.Core.Orcamento::AdicionarItem(System.String,System.Decimal)
+DA:10,0
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+DA:15,0
+DA:16,0
+BRDA:11,18,0,0
+BRDA:11,18,1,0
+FN:18,System.Void Pyramid.Core.Orcamento::RemoverItem(System.String)
+FNDA:0,System.Void Pyramid.Core.Orcamento::RemoverItem(System.String)
+DA:19,0
+DA:20,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+DA:25,0
+BRDA:20,15,0,0
+BRDA:20,15,1,0
+FN:27,System.Boolean Pyramid.Core.Orcamento::Validar()
+FNDA:0,System.Boolean Pyramid.Core.Orcamento::Validar()
+DA:28,0
+DA:29,0
+DA:30,0
+FN:32,System.Boolean Pyramid.Core.Orcamento::AplicarDesconto()
+FNDA:0,System.Boolean Pyramid.Core.Orcamento::AplicarDesconto()
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:39,0
+DA:40,0
+BRDA:34,24,0,0
+BRDA:34,24,1,0
+LF:27
+LH:0
+BRF:6
+BRH:0
+FNF:7
+FNH:0
+end_of_record
+SF:C:\Users\jamil\PyramidTests\Pyramid.Core\programa.cs
+FN:5,System.Void Pyramid.Core.Program::Main()
+FNDA:0,System.Void Pyramid.Core.Program::Main()
+DA:6,0
+DA:7,0
+DA:9,0
+DA:10,0
+DA:11,0
+DA:13,0
+DA:15,0
+DA:16,0
+DA:17,0
+LF:9
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record

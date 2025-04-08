@@ -17,9 +17,9 @@ public class OrcamentoTests
     
         var orcamento = new Orcamento { Id = 2 };
 
-        orcamento.AdicionarItem("Notebook", 5000);
-        orcamento.AdicionarItem("Mouse", 100);
+        orcamento.AdicionarItem("passagem", 500);
+        orcamento.AdicionarItem("caderno", 10);
 
-        Assert.Equal(5100, orcamento.valorTotal);
+        Assert.Equal(510, orcamento.valorTotal);
     }
 }

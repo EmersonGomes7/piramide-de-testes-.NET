@@ -1054,6 +1054,10 @@
         }
       },
       "Pyramid.Core/1.0.0": {
+        "dependencies": {
+          "SpecFlow": "3.9.74",
+          "SpecFlow.xUnit": "3.9.74"
+        },
         "runtime": {
           "Pyramid.Core.dll": {
             "assemblyVersion": "1.0.0.0",
